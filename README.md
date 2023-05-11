@@ -2,9 +2,9 @@
 # 💫 About Me
 
 - 🔭 I’m a Senior Full-Stack Software Engineer.
-- 🌱 I’m currently diving into Blockchain
-- 👯 I’m looking to collaborate on Web3.0
-- 👍 I’m a full-stack developer has 7+ experience with web development
+- 🌱 I’m currently diving into Blockchain.
+- 👯 I’m looking to collaborate on Web3.0.
+- 👍 I have 7+ years of experiences with web development.
 
 # 💻 My favorite tools and technologies
 
