@@ -2,9 +2,7 @@
 # 💫 About Me
 
 - 🔭 I’m a Senior Full-Stack Software Engineer.
-- 🌱 I’m currently diving into Blockchain.
-- 👯 I’m looking for Web 3.0 Experts.
-- 👍 I have 7+ years of experience with web development.
+- 👍 I have 7+ years of experience with full stack development.
 
 # 💻 My favorite tools and technologies
 
@@ -13,6 +11,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -25,8 +27,8 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
@@ -43,10 +45,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
     </td>
   </tr>
   <tr>
@@ -88,14 +86,6 @@
     </td>
   </tr>
  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-    </td>
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -107,14 +97,6 @@
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
